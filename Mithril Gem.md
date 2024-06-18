@@ -14,7 +14,7 @@
 
 # Item State
 
-**<--- Previous**| **Next --->**
+[**<--- Previous**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Next --->**]()
 
 [**Mithril Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Refined Mithril Gem**]()
 
