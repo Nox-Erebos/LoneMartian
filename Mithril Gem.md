@@ -10,7 +10,7 @@
 
 **Mithril Gems** are refined into **Refined Mtihril Gems**.
 
-**Item States**
+# Item States
 
 [**Mithril Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Refined Mithril Gem**]()
 
