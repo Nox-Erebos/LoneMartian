@@ -1,6 +1,6 @@
 # Mithril Shard
 
-**Mithirl Shard** is a type of shard.
+**Mithril Shard** is a type of shard.
 
 # Obtaining
 
