@@ -4,7 +4,7 @@
 
 # Obtaining
 
-**Refined Mithril Gems** are obtained from Refining 1 [**Mtihril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md).
+**Refined Mithril Gems** are obtained from refining 1 [**Mtihril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md).
 
 **1** [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) ---> **1 Refined Mithril Gem**
 
