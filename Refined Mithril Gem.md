@@ -10,11 +10,11 @@
 
 # Usage
 
-**Refined Mithril Gems** are used to craft into the [**Refined Mtihril Core**]().
+**Refined Mithril Gems** are used to craft into the [**Refined Mtihril Core**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Core.md).
 
 # Item State
 
-[**<--- Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) | [**Refined Mithril Core --->**]()
+[**<--- Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) | [**Refined Mithril Core --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Core.md)
 
 # Story
 
