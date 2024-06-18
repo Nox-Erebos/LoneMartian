@@ -11,7 +11,7 @@
 **Mithril Shards** are used to craft the **Mithril Gem**
 
 
-**Previous** | **Next**
+# Item State
 
 *None*       | [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md)
 
