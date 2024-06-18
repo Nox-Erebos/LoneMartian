@@ -10,11 +10,11 @@
 
 # Usage
 
-**Mithril Gems** are refined into **Refined Mtihril Gems**.
+**Mithril Gems** are refined into [**Refined Mtihril Gems**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md).
 
 # Item State
 
-[**<--- Mithril Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Refined Mithril Gem --->**]()
+[**<--- Mithril Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Refined Mithril Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md)
 
 # Story
 
