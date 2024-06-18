@@ -13,4 +13,4 @@
 
 **Previous** | **Next**
 
-*None*         [**Mithril Gem**]()
+*None*       | [**Mithril Gem**]()
