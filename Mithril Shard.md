@@ -13,7 +13,7 @@
 
 **Previous** | **Next**
 
-*None*       | [**Mithril Gem**]()
+*None*       | [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md)
 
 # Story
 
