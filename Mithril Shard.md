@@ -13,7 +13,7 @@
 
 # Item State
 
-*None*       | [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md)
+*None*       | [**Mithril Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md)
 
 # Story
 
