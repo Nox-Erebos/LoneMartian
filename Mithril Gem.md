@@ -4,20 +4,20 @@
 
 # Obtaining
 
-**Mithril Shards** are obtained from the drills located outside the confines of **Base 51**.
+**Mithril Gems** are obtained from crafting together 5 **Mithril Shards**.
 
 # Usage
 
-**Mithril Shards** are used to craft the **Mithril Gem**
+**Mithril Gems** are refined into **Refined Mtihril Gems**.
 
 
 **Previous** | **Next**
 
-[**Mithril Shard**]() | [**Refined Mithril Gem**]()
+[**Mithril Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Refined Mithril Gem**]()
 
 # Story
 
-**Mithirl Shards** were first discovered by Dr. SP while he was on an expidition to the planet Mars in search of technology that was lost in the last expidition. While Dr. SP was serching for the lost technology he happened to stumble upon a **Mihril** cluster, after some testing he discovered that **Mithril** is an endless source of power.
+**Mithirl Gems** were accidentally created within a lab by Dr. SP while he was messing around trying to form **Mithril Shards** into a larger gem like shape.
 
 # Game Info
 
