@@ -4,7 +4,7 @@
 
 # Obtaining
 
-**Refined Mithril Core** are obtained from crafting [** Refined Mtihril Gems**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md) and [**Rethrim Plates**]().
+**Refined Mithril Core** are obtained from crafting [**Refined Mtihril Gems**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md) and [**Rethrim Plates**]().
 
 **20** [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) + **4** [**Rethrim Plate**]() ---> **1 Refined Mithril Core**
 
