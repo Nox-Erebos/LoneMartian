@@ -4,7 +4,7 @@
 
 # Obtaining
 
-**Mithril Shards** are obtained from the drills located outside the confines of **Base 51**
+**Mithril Shards** are obtained from the drills located outside the confines of **Base 51**.
 
 # Usage
 
