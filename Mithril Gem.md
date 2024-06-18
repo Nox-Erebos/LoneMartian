@@ -4,9 +4,9 @@
 
 # Obtaining
 
-**Mithril Gems** are obtained from crafting together 5 **Mithril Shards**.
+**Mithril Gems** are obtained from crafting together 5 [**Mithril Shards**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md).
 
-**5 Mithril Shards** ---> **1 Mithril Gem**
+**5** [**Mithril Shards**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) ---> **1 Mithril Gem**
 
 # Usage
 
