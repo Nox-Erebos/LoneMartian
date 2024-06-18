@@ -1,6 +1,6 @@
 # Refine Mithril Gem
 
-**Refined Mithril Core** is the refined version of the [**Mithirl Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md).
+**Refined Mithril Gem** is the refined version of the [**Mithirl Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md).
 
 # Obtaining
 
