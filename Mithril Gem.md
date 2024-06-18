@@ -1,6 +1,6 @@
 # Mithril Gem
 
-**Mithril** is a type of Gem.
+**Mithril Gem** is a type of Gem.
 
 # Obtaining
 
