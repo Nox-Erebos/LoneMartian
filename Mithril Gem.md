@@ -6,11 +6,11 @@
 
 **Mithril Gems** are obtained from crafting together 5 **Mithril Shards**.
 
+**5 Mithril Shards** ---> **1 Mithril Gem**
+
 # Usage
 
 **Mithril Gems** are refined into **Refined Mtihril Gems**.
-
-**5 Mithril Shards** ---> **1 Mithril Gem**
 
 # Item States
 
