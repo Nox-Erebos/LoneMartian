@@ -1,16 +1,16 @@
 # Refined Mithril Gem
 
-**Refined Mithril Gem** is the refined version of the [**Mithirl Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md).
+**Refined Mithril Gem** is the refined version of the **Mithirl Gem**(.
 
 # Obtaining
 
-**Refined Mithril Gems** are obtained from refining 1 [**Mtihril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md).
+**Refined Mithril Gems** are obtained from refining 1 **Mtihril Gem**.
 
-**1** [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) ---> **1 Refined Mithril Gem**
+**1 Mithril Gem** ---> **1 Refined Mithril Gem**
 
 # Usage
 
-**Refined Mithril Gems** are used to craft into the [**Refined Mtihril Core**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Core.md).
+**Refined Mithril Gems** are used to craft into the **Refined Mtihril Core**.
 
 # Item State
 
