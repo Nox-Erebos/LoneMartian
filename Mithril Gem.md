@@ -4,13 +4,15 @@
 
 # Obtaining
 
-**Mithril Gems** are obtained from crafting together 5 [**Mithril Shards**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md).
+**Mithril Gems** are obtained from crafting together 5 **Mithril Shards**.
 
-**5** [**Mithril Shards**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) ---> **1 Mithril Gem**
+**Required Materials**
+
+**- 5** [**Mithril Shards**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) 
 
 # Usage
 
-**Mithril Gems** are refined into [**Refined Mtihril Gems**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md).
+**Mithril Gems** are refined into **Refined Mtihril Gems**.
 
 # Item State
 
