@@ -6,7 +6,9 @@
 
 **Refined Mithril Gems** are obtained from refining 1 **Mtihril Gem**.
 
-**1 Mithril Gem** ---> **1 Refined Mithril Gem**
+**Required Materials**
+
+**- 1** [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md)
 
 # Usage
 
