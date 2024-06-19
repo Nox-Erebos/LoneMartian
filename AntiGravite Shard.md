@@ -12,7 +12,7 @@
 
 # Item State
 
-***<--- None***       | [**AntiGravite Gem --->**]()
+***<--- None***       | [**AntiGravite Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/AntiGravite%20Gem.md)
 
 # Game Info
 
