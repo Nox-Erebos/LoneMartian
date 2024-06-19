@@ -1,6 +1,6 @@
 # Mithril Gem
 
-**Mithril Gem** is a type of Gem.
+**Mithirl Gems** were accidentally created within a lab by Dr. SP while he was messing around trying to form **Mithril Shards** into a larger gem like shape.
 
 # Obtaining
 
@@ -17,10 +17,6 @@
 # Item State
 
 [**<--- Mithril Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Shard.md) | [**Refined Mithril Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md)
-
-# Story
-
-**Mithirl Gems** were accidentally created within a lab by Dr. SP while he was messing around trying to form **Mithril Shards** into a larger gem like shape.
 
 # Game Info
 
