@@ -8,7 +8,7 @@
 
 **Required Materials**
 
-**- 20** [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) 
+**- 20** [**Mithril Gems**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Mithril%20Gem.md) 
 
 **- 4** [**Rethrim Plates**]()
 
