@@ -1,6 +1,6 @@
 # Refined Mithril Core
 
-**Refined Mithril Core** is the Refined Mithirl Gem made into a core to focus its energy.
+**Refined Mithirl Cores** were created by Dr. Alpha , Dr. Krieger , and Dr. Aimi as a better way to to harvest energy from Mithril.
 
 # Obtaining
 
@@ -19,10 +19,6 @@
 # Item State
 
 [**<--- Refined Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Mithril%20Gem.md) | ***None --->***
-
-# Story
-
-**Refined Mithirl Cores** were created by Dr. Alpha , Dr. Krieger , and Dr. Aimi as a better way to to harvest energy from Mithril.
 
 # Game Info
 
