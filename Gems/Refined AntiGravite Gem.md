@@ -16,7 +16,7 @@ After more experimentation Dr. Krieger developed a varient so powerful it defied
 
 # Item State
 
-[**<--- AntiGravite Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/AntiGravite%20Gem.md) | [**Refined AntiGravite Core --->**]()
+[**<--- AntiGravite Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/AntiGravite%20Gem.md) | [**Refined AntiGravite Core --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20AntiGravite%20Core.md)
 
 # Game Info
 
