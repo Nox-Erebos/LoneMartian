@@ -16,7 +16,7 @@ After discovery of the **Vigor Shard** and some insight from Dr. SP, Dr. Krieger
 
 # Item State
 
-[**<--- Vigor Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Vigor%20Shard.md) | [**Refined Vigor Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Vigor%20Gem.md)
+[**<--- Vigor Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Vigor%20Shard.md) | [**Refined Vigor Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Vigor%20Gem.md)
 
 # Game Info
 
