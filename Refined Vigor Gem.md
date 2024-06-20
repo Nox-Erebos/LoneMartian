@@ -1,6 +1,6 @@
 # Refined Vigor Gem
 
-**Refined Vigor Gems** were created by Dr. Krieger after the celebration of the first victory humanity has won, Dr.Krieger threw a couple of **Vigor Gems** in the refinery not really paying much mind to the gems.
+**Refined Vigor Gems** were created by Dr. Krieger after the celebration of the first victory humanity has won, Dr.Krieger threw a couple of **Vigor Gems** in the refinery not really paying much mind to the gems. Later when he checked on the gems he realized that he had accidentally improved the gem's quality.
 
 # Obtaining
 
