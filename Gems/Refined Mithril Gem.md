@@ -16,7 +16,7 @@
 
 # Item State
 
-[**<--- Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Mithril%20Gem.md) | [**Refined Mithril Core --->**]()
+[**<--- Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Mithril%20Gem.md) | [**Refined Mithril Core --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Mithril%20Gem.md)
 
 # Game Info
 
