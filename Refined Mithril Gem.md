@@ -4,7 +4,7 @@
 
 # Obtaining
 
-**Refined Mithril Gems** are obtained from refining 1 **Mtihril Gem**.
+**Refined Mithril Gems** are obtained from refining 1 **Mtihril Gem** in the [**Refinery**]().
 
 **Required Materials**
 
