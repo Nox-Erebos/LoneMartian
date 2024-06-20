@@ -16,7 +16,7 @@ After his expidition Dr. Krieger experimented on the **AntiGravite Shard**, and 
 
 # Item State
 
-[**<--- AntiGravite Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/AntiGravite%20Shard.md) | [**Refined AntiGravite Gem --->**]()
+[**<--- AntiGravite Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/AntiGravite%20Shard.md) | [**Refined AntiGravite Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20AntiGravite%20Gem.md)
 
 # Game Info
 
