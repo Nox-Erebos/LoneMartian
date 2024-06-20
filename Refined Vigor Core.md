@@ -18,7 +18,7 @@ With help from Dr. Onyx , Dr. Krieger finally developed the **Refined Vigor Core
 
 # Item State
 
-[**<--- Refined AntiGravite Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Vigor%20Gem.md) | ***None --->***
+[**<--- Refined Vigor Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Vigor%20Gem.md) | ***None --->***
 
 # Game Info
 
