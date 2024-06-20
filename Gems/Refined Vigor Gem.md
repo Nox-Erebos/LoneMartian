@@ -16,7 +16,7 @@
 
 # Item State
 
-[**<--- Vigor Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Vigor%20Gem.md) | [**Refined Vigor Core --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Refined%20Vigor%20Core.md)
+[**<--- Vigor Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Vigor%20Gem.md) | [**Refined Vigor Core --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Vigor%20Core.md)
 
 # Game Info
 
