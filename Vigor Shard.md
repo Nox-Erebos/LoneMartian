@@ -12,7 +12,7 @@
 
 # Item State
 
-***<--- None***       | [**Vigor Gem --->**]()
+***<--- None***       | [**Vigor Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Vigor%20Gem.md)
 
 # Game Info
 
