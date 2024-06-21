@@ -16,7 +16,7 @@ Dr. Ferng put a few **Regnesis Gems** in the **Refinery** hypothesising that the
 
 # Item State
 
-[**<--- Regenesis Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Regenesis%20Gem.md) | [**Refined Vigor Core --->**]()
+[**<--- Regenesis Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Regenesis%20Gem.md) | [**Refined Vigor Core --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Regenesis%20Core.md)
 
 # Game Info
 
