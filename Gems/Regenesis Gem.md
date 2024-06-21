@@ -1,6 +1,6 @@
 # Regenesis Gem
 
-After discovery of the **Regenesis Shard** and some insight from Dr. SP, Dr. Krieger created the first **Regenesis Gem**.
+After discovery of the **Regenesis Shard**, Dr. Ferng created the first **Regenesis Gem** with the help of Dr. Krieger.
 
 # Obtaining
 
