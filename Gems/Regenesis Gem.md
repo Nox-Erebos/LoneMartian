@@ -16,7 +16,7 @@ After discovery of the **Regenesis Shard**, Dr. Ferng created the first **Regene
 
 # Item State
 
-[**<--- Regenesis Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Regenesis%20Shard.md) | [**Refined Regenesis Gem --->**]()
+[**<--- Regenesis Shard**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Regenesis%20Shard.md) | [**Refined Regenesis Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Regenesis%20Gem.md)
 
 # Game Info
 
