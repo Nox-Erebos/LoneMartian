@@ -12,7 +12,7 @@
 
 # Item State
 
-***<--- None***       | [**Regenesis Gem --->**]()
+***<--- None***       | [**Regenesis Gem --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Regenesis%20Gem.md)
 
 # Game Info
 
