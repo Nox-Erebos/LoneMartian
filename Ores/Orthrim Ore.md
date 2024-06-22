@@ -12,7 +12,7 @@
 
 # Item State
 
-***<--- None*** | [**Orthrim Plates --->**]()
+***<--- None*** | [**Orthrim Ingot --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Orthrim%20Ingot.md)
 
 # Game Info
 
