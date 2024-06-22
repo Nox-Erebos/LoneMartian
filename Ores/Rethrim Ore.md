@@ -12,7 +12,7 @@ After Dr. SP removed all **Mithril** from the mithril cluster he discovered that
 
 # Item State
 
-***<--- None*** | [**Rethrim Plates --->**]()
+***<--- None*** | [**Rethrim Plates --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Rethirm%20Ingot.md)
 
 # Game Info
 
