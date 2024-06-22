@@ -12,7 +12,7 @@
 
 # Item State
 
-***<--- None*** | [**Atractium Plates --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Atractium%20Ingot.md)
+***<--- None*** | [**Atractium Ingot --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Atractium%20Ingot.md)
 
 # Game Info
 
