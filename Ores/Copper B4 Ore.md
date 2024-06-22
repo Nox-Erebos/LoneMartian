@@ -12,7 +12,7 @@
 
 # Item State
 
-***<--- None*** | [**Copper B4 Plates --->**]()
+***<--- None*** | [**Copper B4 Ingot --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Copper%20B4%20Ingot.md)
 
 # Game Info
 
