@@ -22,5 +22,5 @@ After some refining Dr. Krieger formed the **Orthrim Ore** into a **Orthrim Ingo
 
 **Internal ID** : 
 
-**Category** : Ore
+**Category** : Ingot
 
