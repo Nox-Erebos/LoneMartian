@@ -7,6 +7,7 @@
 **Orthrim Pipe** is obtained from crafting **Orthrim Plate**.
 
 **Required Materials**
+
 **- 1** [**Orthrim Plate**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Plates/Orthrim%20Plate.md)
 
 # Usage
