@@ -16,7 +16,7 @@ Dr. SP created the first **Rethrim Ingot** after his discovery of the **Rethrim 
 
 # Item State
 
-[**<--- Rethrim Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Rethrim%20Ore.md) | [**Rethrim Plate --->**]()
+[**<--- Rethrim Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Rethrim%20Ore.md) | [**Rethrim Plate --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Plates/Rethrim%20Plate.md)
 
 # Game Info
 
