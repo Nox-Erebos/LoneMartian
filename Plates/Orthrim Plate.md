@@ -16,7 +16,7 @@
 
 # Item State
 
-[**<--- Orthrim Inogt**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Orthrim%20Ingot.md) | ***None --->***
+[**<--- Orthrim Ingot**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Orthrim%20Ingot.md) | ***None --->***
 
 # Game Info
 
