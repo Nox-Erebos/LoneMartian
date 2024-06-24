@@ -1,6 +1,6 @@
 # Rethrim Plate
 
-**Rethrim Plates** created by Dr. Aimi and Dr. Alpha for easier use..
+**Rethrim Plates** created by Dr. Aimi and Dr. Alpha for easier use.
 
 # Obtaining
 
