@@ -1,6 +1,6 @@
 # Refined AntiGravite Core
 
-Dr. Krieger, after years of development finally succeeded in creating the **Refined AntiGravite Gem** a better way to contain and use the gem's power.
+Dr. Krieger, after years of development finally succeeded in creating the **Refined AntiGravite Core** a better way to contain and use the gem's power.
 
 # Obtaining
 
