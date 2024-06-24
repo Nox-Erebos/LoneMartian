@@ -16,7 +16,7 @@ After some refining Dr. Krieger formed the **Orthrim Ore** into a **Orthrim Ingo
 
 # Item State
 
-[**<--- Orthrim Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Orthrim%20Ore.md) | [**Orthrim Plate --->**]()
+[**<--- Orthrim Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Orthrim%20Ore.md) | [**Orthrim Plate --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Plates/Orthrim%20Plate.md)
 
 # Game Info
 
