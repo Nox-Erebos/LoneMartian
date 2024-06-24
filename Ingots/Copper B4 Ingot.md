@@ -16,7 +16,7 @@
 
 # Item State
 
-[**<--- Copper B4 Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Copper%20B4%20Ore.md) | [**Copper B4 Plate --->**]()
+[**<--- Copper B4 Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Copper%20B4%20Ore.md) | [**Copper B4 Plate --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Plates/Copper%20B4%20Plate.md)
 
 # Game Info
 
