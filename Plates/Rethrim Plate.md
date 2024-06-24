@@ -1,26 +1,25 @@
-# Orthrim Ingot
+# Rethrim Plate
 
-After some refining Dr. Krieger formed the **Orthrim Ore** into a **Orthrim Ingot**.
+**Orthrim Plates** were created by Dr. Krieger for easier use when creating his exoskeleton.
 
 # Obtaining
 
-**Orthrim Ingots** are made from melting **Orthirm Ore** into a bar using the **Forge**.
+**Rethrim Plates** are obtained from crafting **Rethrim Ingots**.
 
 **Required Materials**
 
-**- 1x** [**Orthrim Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Orthrim%20Ore.md)
+**- 5** [**Rethrim Ingots**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Rethirm%20Ingot.md) 
 
 # Usage
 
-**Orthirm Ingots** are used to make the Orthirm Plate.
+**Orthrim Plates** are used to create armor and weapons used by **UPA**.
 
 # Item State
 
-[**<--- Orthrim Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Orthrim%20Ore.md) | [**Orthrim Plate --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Plates/Orthrim%20Plate.md)
+[**<--- Rethrim Ingot**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Rethirm%20Ingot.md) | ***None --->***
 
 # Game Info
 
 **Internal ID** : 
 
-**Category** : Ingot
-
+**Category** : Component
