@@ -16,7 +16,7 @@ Dr. Alpha after finding the "*Better Magenet*" he turned it into an ingot.
 
 # Item State
 
-[**<--- Atractium Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Atractium%20Ore.md) | ***None --->**
+[**<--- Atractium Ore**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ores/Atractium%20Ore.md) | ***None --->***
 
 # Game Info
 
