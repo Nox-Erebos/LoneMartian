@@ -1,6 +1,6 @@
 # Rethrim Plate
 
-**Orthrim Plates** were created by Dr. Krieger for easier use when creating his exoskeleton.
+**Rethrim Plates** created by Dr. Aimi and Dr. Alpha for easier use..
 
 # Obtaining
 
