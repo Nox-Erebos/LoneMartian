@@ -4,11 +4,11 @@
 
 # Obtaining
 
-**Accelerated Atractium Rods** are obtained from accelearting **Atractium Rod** in the **Accelerator**.
+**Accelerated Atractium Rods** are obtained from accelearting **Atractium Rod** in the [**Accelerator**]().
 
 **Required Materials**
 
-**- 1** [**Atractium Rod**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Atractium%20Ingot.md)
+**- 1** [**Atractium Rod**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Rods/Atractium%20Rod.md)
 
 # Usage
 
