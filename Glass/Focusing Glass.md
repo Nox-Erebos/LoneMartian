@@ -16,7 +16,7 @@
 
 # Item State
 
-***<--- None*** | [**Combined Focusing Glass**]()
+***<--- None*** | [**Combined Focusing Glass --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Glass/Combined%20Focusing%20Glass.md)
 
 # Game Info
 
