@@ -10,7 +10,7 @@
 
 # Usage
 
-The **Artificial Flavoring Ingredients** is used to cook food.
+The **Artificial Flavoring Ingredients** is used to cook food. Each **Artificial Flavoring Ingredients** can be used up to 3 times.
 
 # Item State
 
