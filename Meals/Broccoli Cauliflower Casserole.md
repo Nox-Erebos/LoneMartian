@@ -18,7 +18,7 @@
 
 # Usage
 
-**Broccoli Cauliflower Casserole** is used to heal 60hp.
+**Broccoli Cauliflower Casserole** is used to heal 60hp and recover 60sp.
 
 # Item State
 
