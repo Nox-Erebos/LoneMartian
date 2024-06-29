@@ -1,6 +1,6 @@
 # Marjoram
 
-**Marjoram** a common vegetable found on **Earth**.
+**Marjoram** a common herb found on **Earth**.
 
 # Obtaining
 
