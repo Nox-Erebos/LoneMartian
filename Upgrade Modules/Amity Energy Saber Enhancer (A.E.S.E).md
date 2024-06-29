@@ -22,4 +22,4 @@ The **Amity Energy Saber Enhancer (A.E.S.E)** is used to create the **Sword of A
 
 **Internal ID** : 
 
-**Category** : Component
+**Category** : Upgrade Module
