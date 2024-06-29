@@ -18,7 +18,7 @@
 
 # Usage
 
-**Strawberry Spinach Salad** is used to instantly heal the 250hp.
+**Strawberry Spinach Salad** is used to instantly heal the 250hp and recover 100sp.
 
 # Item State
 
