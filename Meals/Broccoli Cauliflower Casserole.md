@@ -18,7 +18,7 @@
 
 # Usage
 
-**Broccoli Cauliflower Casserole** is used to heal the player.
+**Broccoli Cauliflower Casserole** is used to heal 60hp.
 
 # Item State
 
