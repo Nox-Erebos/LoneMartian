@@ -8,11 +8,11 @@
 
 **Required Materials**
 
-**- 3** [**Spinach**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Spinach.md)
+**- 10** [**Spinach**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Spinach.md)
 
-**- 3** [**Cauliflower**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Cauliflower.md)
+**- 10** [**Cauliflower**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Cauliflower.md)
 
-**- 3** [**Strawberry**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Onions.md)
+**- 10** [**Strawberry**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Onions.md)
 
 **- 1/3** [**Artificial Flavoring Ingredients**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingredients/Strawberry.md)
 
