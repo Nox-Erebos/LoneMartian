@@ -14,9 +14,10 @@ weapon in **UPA's** posession.
 # Recipie Tree
 
 **Sword of Amity**
-- [**Sword of Enmity**]()
 
-- [**Amity Energy Saber Enhancer**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Amity%20Energy%20Saber%20Enhancer%20(A.E.S.E).md)
+**- 1**[**Sword of Enmity**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Lazer%20Swords/Sword%20of%20Enmity.md)
+
+**- 1**[**Amity Energy Saber Enhancer**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Amity%20Energy%20Saber%20Enhancer%20(A.E.S.E).md)
 
 # Stats
 
@@ -35,7 +36,7 @@ min**.
 
 # Item State
 
-[**Sword of Enmity**]() | ***None --->***
+[**<--- Sword of Enmity**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Lazer%20Swords/Sword%20of%20Enmity.md) | ***None --->***
 
 # Game Info
 
