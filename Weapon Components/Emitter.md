@@ -4,7 +4,7 @@ The **Emitter** devloped by **Ivy** in her attempt to recreate the **Sword of Am
 
 # Obtaining
 
-**Weapons Support System** is obtained from crafting **Rethrim Plate**.
+**Emitter** is obtained from crafting **Rethrim Plate**.
 
 **Required Materials**
 
@@ -12,7 +12,7 @@ The **Emitter** devloped by **Ivy** in her attempt to recreate the **Sword of Am
 
 # Usage
 
-The **Weapons Support System** is used to make the **Sword of Enmity**.
+The **Emitter** is used to make the **Sword of Enmity**.
 
 # Item State
 
