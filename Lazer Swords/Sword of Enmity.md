@@ -20,7 +20,7 @@ The **Sword of Enmity** was developed by **Ivy**. After being consumed with jeal
 
 **Sword of Enmity**
 
-**- 1** [**Emitter**]()
+**- 1** [**Emitter**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Emitter.md)
 
 **- 1** [**Focusing Glass**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Glass/Focusing%20Glass.md)
 
@@ -28,7 +28,7 @@ The **Sword of Enmity** was developed by **Ivy**. After being consumed with jeal
 
 **- 2** [**Copper B4 Pipe**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Copper%20B4%20Pipe.md)
 
-**- 1** [**End Cap**]()
+**- 1** [**End Cap**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/End%20Cap.md)
 
 # Stats
 
