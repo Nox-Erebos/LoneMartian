@@ -8,7 +8,7 @@ The **Radiance Ripper X9 Handle** devloped by Dr. AMC for use in the **Radiance 
 
 **Required Materials**
 
-**- 2** [**Orthrim Ingot**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Rods/Accelerated%20Atractium%20Rod.md)
+**- 2** [**Orthrim Ingot**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Ingots/Orthrim%20Ingot.md)
 
 # Usage
 
