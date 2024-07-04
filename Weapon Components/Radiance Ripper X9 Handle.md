@@ -1,6 +1,6 @@
 # Radiance Ripper X9 Handle
 
-The **Radiance Ripper X9 Handle** devloped by Dr. AMC for use in the **Radiance Ripper X9**.
+The **Radiance Ripper X9 Handle** devloped by Dr. Alpha for use in the **Radiance Ripper X9**.
 
 # Obtaining
 
