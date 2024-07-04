@@ -7,7 +7,7 @@ weapon in **UPA's** posession.
 
 **The Sword of Amity** can be crafted with two items: 
 
-**- 1x The Sword of Enmity**
+**- 1x Sword of Enmity**
 
 **- 1x Amity Energy Saber Enhancer (A.E.S.E)**
 
@@ -31,8 +31,7 @@ weapon in **UPA's** posession.
 
 # Special Ability
 
-The **Sword of Amity** has a special ability called **Respite**. **Respite** can be activated by **Right-Clicking** with the sword equipped. The ability has a cooldown of **5 
-min**.
+The **Sword of Amity** has a special ability called **Respite**. **Respite** can be activated by **Right-Clicking** with the sword equipped. **Respite** stops all enemies from attacking its user for **10s**. The ability has a cooldown **5min**.
 
 # Item State
 
