@@ -1,6 +1,6 @@
 # Onyx Obliterator WMD1937
 
-The **Onyx Obliterator WMD1937** was developed by Dr. Onyx in the year 5020. The **Onyx Obliterator WMD1937** is Dr. Onyx's final creation before sacrificing himself in the final battle in the year 5195. His sacrifice ending the war once and for all.
+The **Onyx Obliterator WMD1937** was developed by Dr. Onyx in the year 5020. The **Onyx Obliterator WMD1937** was Dr. Onyx's final creation before sacrificing himself in the final battle in the year 5195. His sacrifice ending the war once and for all.
 
 # Obtaining
 
