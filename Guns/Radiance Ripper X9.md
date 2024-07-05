@@ -20,7 +20,7 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **Radiance Ripper X9**
 
-**- 1** [**Radiance Ripper X9 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Emitter.md)
+**- 1** [**Radiance Ripper X9 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Accelerator.md)
 
 **- 1** [**Radiance Ripper X9 Focus**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Glass/Focusing%20Glass.md)
 
