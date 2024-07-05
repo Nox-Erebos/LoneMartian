@@ -1,6 +1,6 @@
 # Radiance Ripper X9
 
-The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a weapon that can greatly aid humanity in the upcoming wars. The **Radiance Ripper X9**
+The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a weapon that can greatly aid humanity in the upcoming wars. The **Radiance Ripper X9** devloped and built under a time constraint when **UPA** was desprate for weapons to aid them in the upcoming war.
 
 # Obtaining
 
