@@ -14,7 +14,7 @@ The **Onyx Obliterator WMD1937** was developed by Dr. Onyx in the year 5020. The
 
 **Onyx Obliterator WMD1937**
 
-**- 1** [**Radiance Ripper X9**]()
+**- 1** [**Radiance Ripper X9**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Guns/Radiance%20Ripper%20X9.md)
 
 **- 1** [**Singularity Onyx Module**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Singularity%20Onyx%20Module%20(S.O.M).md)
 
@@ -36,7 +36,7 @@ The **Onyx Obliterator WMD1937** has a special ability called **Oblivion’s Edg
 
 # Item State
 
-[**<--- Radiance Ripper X9**]() | ***None --->***
+[**<--- Radiance Ripper X9**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Guns/Radiance%20Ripper%20X9.md) | ***None --->***
 
 # Game Info
 
