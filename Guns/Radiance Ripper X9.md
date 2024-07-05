@@ -14,7 +14,7 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **- 2x Rethrim Pipes**
 
-**- 1x Energy Pod Accepter**
+**- 1x G.P.C**
 
 # Recipie Tree
 
@@ -28,7 +28,7 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **- 2** [**Rethrim Pipes**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Copper%20B4%20Pipe.md)
 
-**- 1** [**Energy Pod Accepter**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/End%20Cap.md)
+**- 1** [**G.P.C**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Gun%20Power%20Core%20(G.P.C).md)
 
 # Stats
 
