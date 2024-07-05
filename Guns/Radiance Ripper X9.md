@@ -22,11 +22,11 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **- 1** [**Radiance Ripper X9 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Accelerator.md)
 
-**- 1** [**Radiance Ripper X9 Focus**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Glass/Focusing%20Glass.md)
+**- 1** [**Radiance Ripper X9 Focus**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Focus.md)
 
-**- 1** [**Radiance Ripper X9 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Mithril%20Core.md)
+**- 1** [**Radiance Ripper X9 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Handle.md)
 
-**- 2** [**Rethrim Pipes**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Copper%20B4%20Pipe.md)
+**- 2** [**Rethrim Pipes**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Rethrim%20Pipe.md)
 
 **- 1** [**G.P.C**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Gun%20Power%20Core%20(G.P.C).md)
 
