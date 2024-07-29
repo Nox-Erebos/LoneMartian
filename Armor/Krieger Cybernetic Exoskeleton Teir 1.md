@@ -1,0 +1,29 @@
+# Krieger Cybernetic Exoskeleton Teir 1
+
+The **Krieger Cybernetic Exoskeleton Teir 1** was developed by Dr. Krieger 5 years after joining **UPA**. When Dr. Krieger saw that his close friend Dr. Alpha almost got killed when using **UPA** suits he developed the **Krieger Cybernetic Exoskeleton Teir 1** hoping that same incident won't repeat itself again.
+
+# Obtaining
+
+**Krieger Cybernetic Exoskeleton Teir 1** can be found in the armory in the **Training** sector of **Base 51**.
+
+# Stats
+
+**- Health : 500**
+
+**- Defence : 10**
+
+**- Damage : 10**
+
+**- Stamina Regeneration : 5/s**
+
+**- Regeneration : 10/s**
+
+# Item State
+
+***<--- None*** | [**Krieger Cybernetic Exoskeleton Teir 2 --->**]()
+
+# Game Info
+
+**Internal ID** : 
+
+**Category** : Exoskeleton
