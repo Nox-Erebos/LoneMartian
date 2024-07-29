@@ -14,7 +14,7 @@ The **Krieger Cybernetic Exoskeleton Teir 1** was developed by Dr. Krieger 5 yea
 
 **- Damage : 10**
 
-**- Stamina Regeneration : 5/s**
+**- Stamina Consumption Reduction : 18/s**
 
 **- Regeneration : 10/s**
 
