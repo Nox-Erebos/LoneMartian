@@ -18,6 +18,14 @@ The **Krieger Cybernetic Exoskeleton Teir 1** was developed by Dr. Krieger 5 yea
 
 **- Regeneration : 10/s**
 
+# Quote
+
+Dr. Krieger after creation of the **Krieger Cybernetic Exoskeleton Teir 1** stated :
+
+"It worked..."
+
+**- Krieger**
+
 # Item State
 
 ***<--- None*** | [**Krieger Cybernetic Exoskeleton Teir 2 --->**]()
