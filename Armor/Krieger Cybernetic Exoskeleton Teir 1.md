@@ -28,7 +28,7 @@ Dr. Krieger after creation of the **Krieger Cybernetic Exoskeleton Teir 1** stat
 
 # Item State
 
-***<--- None*** | [**Krieger Cybernetic Exoskeleton Teir 2 --->**]()
+***<--- None*** | [**Krieger Cybernetic Exoskeleton Teir 2 --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%202.md)
 
 # Game Info
 
