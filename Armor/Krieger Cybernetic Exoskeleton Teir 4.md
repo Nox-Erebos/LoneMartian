@@ -34,7 +34,7 @@ The **Krieger Cybernetic Exoskeleton Teir 4** was created by Dr. Krieger, days a
 
 Dr. Krieger after creation of the **Krieger Cybernetic Exoskeleton Teir 4** stated :
 
-"The final step..."
+"I will not allow my selfish needs to prevent me from producing armor that can save humanity."
 
 **- Krieger**
 
