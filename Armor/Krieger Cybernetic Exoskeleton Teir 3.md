@@ -4,7 +4,7 @@ The **Krieger Cybernetic Exoskeleton Teir 3** was created by Dr. Krieger while h
 
 # Obtaining
 
-**Krieger Cybernetic Exoskeleton Teir 3** can be found created by combining :
+**Krieger Cybernetic Exoskeleton Teir 3** can be created by combining :
 
 **- 1x Krieger Cybernetic Exoskeleton Teir 2**
 
