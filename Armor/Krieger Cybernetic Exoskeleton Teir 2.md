@@ -4,7 +4,7 @@ The **Krieger Cybernetic Exoskeleton Teir 2** was developed by Dr. Krieger, just
 
 # Obtaining
 
-**Krieger Cybernetic Exoskeleton Teir 2** can be found created by combining :
+**Krieger Cybernetic Exoskeleton Teir 2** can be created by combining :
 
 **- 1x Krieger Cybernetic Exoskeleton Teir 1**
 
