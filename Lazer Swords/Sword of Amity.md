@@ -1,7 +1,6 @@
 # Sword of Amity
 
-The **Sword of Amity** was developed by Dr. Aimi in the year 5025 with mithril crystals she obtained from Dr. Onyx. The **Sword of Amity** is currently the most powerful 
-weapon in **UPA's** posession.
+The **Sword of Amity** was the last device Dr. Aimi created. A year after
 
 # Obtaining
 
