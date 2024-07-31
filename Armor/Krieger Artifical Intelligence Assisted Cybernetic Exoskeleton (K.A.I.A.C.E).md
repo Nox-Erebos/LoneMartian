@@ -40,7 +40,8 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 
 # Special Ability
 
-The **Sword of Amity** has a special ability called **Respite**. **Respite** can be activated by **Right-Clicking** with the sword equipped. **Respite** stops all enemies from attacking its user for **10s**. The ability has a cooldown **5min**.
+**>Gentle Repose**
+
 
 # Item State
 
