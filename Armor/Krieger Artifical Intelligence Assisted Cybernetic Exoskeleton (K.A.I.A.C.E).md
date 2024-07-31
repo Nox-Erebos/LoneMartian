@@ -1,6 +1,6 @@
 # Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)
 
-The **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life along side Dr. Onyx and Dr. Aimi finally bringing the war to an end.
+The **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life along side Dr. Onyx and Dr. Aimi finally bringing the war to an end. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
 
 # Obtaining
 
