@@ -29,9 +29,23 @@ weapon in **UPA's** posession.
 
 **- Stamina Regeneration : 100/s**
 
+# Quote
+
+Dr. Aimi after creation of the **Sword of Amity** stated :
+
+"Rest but don't go to sleep. You still have to watch your boundaries and not let down your guard despite promises of non-aggression. Swords are never passive."
+
+**- Aimi**
+
 # Special Ability
 
-The **Sword of Amity** has a special ability called **Respite**. **Respite** can be activated by **Right-Clicking** with the sword equipped. **Respite** stops all enemies from attacking its user for **10s**. The ability has a cooldown **5min**.
+**> Respite**
+
+**Gentle Repose** can be activated by **Right-Clicking** while using the **Sword of Amity**.
+
+When activated **Respite** will stop all enimies nearby from attacking the player for 10s.
+
+After use **Respite** will go on a 5min cooldown.
 
 # Item State
 
