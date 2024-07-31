@@ -40,7 +40,13 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 
 # Special Ability
 
-**>Gentle Repose**
+**> Gentle Repose**
+
+**Gentle Repose** can be activated by **Shift-Right-Clicking** while having the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** equiped.
+
+When activated **Gentle Repose** will generate a shield that negate all damage for 5s.
+
+After use **Gentle Repose** willl go on a 10min cooldown.
 
 
 # Item State
