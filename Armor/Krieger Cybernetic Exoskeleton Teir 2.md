@@ -34,7 +34,7 @@ The **Krieger Cybernetic Exoskeleton Teir 2** was developed by Dr. Krieger, just
 
 Dr. Krieger after creation of the **Krieger Cybernetic Exoskeleton Teir 2** stated :
 
-"Finally it worked..."
+"I will create armor that can shield humanity from harm."
 
 **- Krieger**
 
