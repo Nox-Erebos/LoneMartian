@@ -22,7 +22,7 @@ The **Krieger Cybernetic Exoskeleton Teir 1** was developed by Dr. Krieger 5 yea
 
 Dr. Krieger after creation of the **Krieger Cybernetic Exoskeleton Teir 1** stated :
 
-"It worked..."
+"It actually worked."
 
 **- Krieger**
 
