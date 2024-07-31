@@ -43,9 +43,9 @@ Dr. Aimi after creation of the **Sword of Amity** stated :
 
 **Gentle Repose** can be activated by **Right-Clicking** while using the **Sword of Amity**.
 
-When activated **Respite** will stop all enimies nearby from attacking the player for 10s.
+When activated **Respite** will stop all enimies nearby from attacking the player for **10s**.
 
-After use **Respite** will go on a 5min cooldown.
+After use **Respite** will go on a **5min** cooldown.
 
 # Item State
 
