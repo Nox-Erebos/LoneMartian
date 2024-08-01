@@ -1,6 +1,6 @@
 # Onyx Obliterator WMD1937
 
-The **Onyx Obliterator WMD1937** was developed by Dr. Onyx in the year 5020. The **Onyx Obliterator WMD1937** was Dr. Onyx's final creation before sacrificing himself in the final battle in the year 5195. His sacrifice ending the war once and for all.
+The **Onyx Obliterator WMD1937** was the last device that Dr. Onyx created. Only months after its completion, Dr. Onyx sacrificed his life along side Dr. Aimi and Dr. Krieger to bring the war to an end. Dr. Onyx's last message was "FOR CREATION OF THE **ONYX OBLITERATOR WMD1937** DEATH IS MY PUNISHMENT BUT I WILL USE MY PUNISHMENT TO BETTER THE LIVES OF HUMANITY! FORGIVE ME HUMANITY!".
 
 # Obtaining
 
@@ -20,7 +20,7 @@ The **Onyx Obliterator WMD1937** was developed by Dr. Onyx in the year 5020. The
 
 # Stats
 
-**- Damage : 999**
+**- Damage : 1000**
 
 **- Ammo : INFINITE**
 
@@ -28,11 +28,25 @@ The **Onyx Obliterator WMD1937** was developed by Dr. Onyx in the year 5020. The
 
 **- Range : 20m**
 
+# Quote
+
+Dr. Onyx after creation of the **Onyx Obliterator WMD1937** stated :
+
+"I am the Annihilator, Destroyer of Galaxies"
+
+**- Onyx**
+
 # Special Ability
 
-The **Onyx Obliterator WMD1937** has a special ability called **Oblivion’s Edge**. **Oblivion’s Edge** can be activated by **Right-Clicking** with the gun equipped. **Oblivion’s Edge** pools 99% of the power in the gun into one shot dealing **10000** damage. The ability has a cooldown of **10min**.
+**> Gentle Repose**
 
-**WARNING** : **Oblivion’s Edge** will kill its user if not used with **K.A.I.A.C.E**.
+**Oblivion's Edge** can be activated by **Right-Clicking** while using the **Onyx Obliterator WMD1937**.
+
+When activated **Oblivion's Edge** will pool 99% of power within the gun into 1 shot dealing **10000** damage.
+
+After use **Oblivion's Edge** will go on a **10min** cooldown.
+
+**Warning** : **Oblivion's Edge** will kill it's user if not used with **K.A.I.A.C.E** equipped.
 
 # Item State
 
