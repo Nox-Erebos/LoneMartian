@@ -1,6 +1,6 @@
 # Sword of Amity
 
-The **Sword of Amity** was the last device Dr. Aimi created. A year after creating the **Sword of Amity** Dr. Aimi sacrificed herself along side Dr. Onyx and Dr. Krieger bringing the war to an end. The last message sent by Dr. Aimi was "NEVER STOP FIGHTING, THIS IS MY FINAL GIFT TO YOU, HUMANITY".
+The **Sword of Amity** was the last device Dr. Aimi created. A year after creating the **Sword of Amity** Dr. Aimi sacrificed herself along side Dr. Onyx and Dr. Krieger bringing the war to an end. The last message sent by Dr. Aimi was "NEVER STOP FIGHTING FOR PEACE, THIS IS MY FINAL GIFT TO YOU, HUMANITY".
 
 # Obtaining
 
