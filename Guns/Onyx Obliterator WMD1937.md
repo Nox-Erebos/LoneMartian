@@ -1,6 +1,6 @@
 # Onyx Obliterator WMD1937
 
-The **Onyx Obliterator WMD1937** was the last device that Dr. Onyx created. Only months after its completion, Dr. Onyx sacrificed his life along side Dr. Aimi and Dr. Krieger to bring the war to an end. Dr. Onyx's last message was "FOR CREATION OF THE **ONYX OBLITERATOR WMD1937** DEATH IS MY PUNISHMENT BUT I WILL USE MY PUNISHMENT TO BETTER THE LIVES OF HUMANITY! FORGIVE ME HUMANITY!".
+The **Onyx Obliterator WMD1937** was the last device that Dr. Onyx created. Only months after its completion, Dr. Onyx sacrificed his life along side Dr. Aimi and Dr. Krieger to bring the war to an end. Dr. Onyx's last message was "FOR CREATION OF THE **ONYX OBLITERATOR WMD1937** DEATH IS MY PUNISHMENT BUT, I WILL USE MY PUNISHMENT TO BETTER THE LIVES OF HUMANITY! FORGIVE ME HUMANITY!".
 
 # Obtaining
 
