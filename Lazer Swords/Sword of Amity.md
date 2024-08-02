@@ -26,7 +26,7 @@ The **Sword of Amity** was the last device Dr. Aimi created. A year after creati
 
 **- Stamina : 100**
 
-**- Enhanced Stamina Regeneration : 15/s**
+**- Enhanced Stamina Regeneration : 5/s**
 
 # Quote
 
