@@ -34,7 +34,7 @@ The **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.
 
 Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** stated :
 
-"MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!"
+"Peace is finnally within our grasp."
 
 **- Krieger**
 
