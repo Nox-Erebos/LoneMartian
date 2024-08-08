@@ -1,4 +1,4 @@
-# Rethrim Ingot
+# Atractium Ingot
 
 Dr. Alpha after finding the "*Better Magenet*" he turned it into an ingot.
 
