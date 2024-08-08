@@ -27,3 +27,9 @@ The **Deimos Bioluminescent Lurker** can be found roaming around **Base 51**.
 **K.C.E.M Teir 3** | **3%**
 
 **K.C.E.M Teir 4** | **1%**
+
+# Game Info
+
+**MID** : Anglerox
+
+**Category** : Mob
