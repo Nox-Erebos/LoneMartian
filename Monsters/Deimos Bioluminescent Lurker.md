@@ -8,7 +8,7 @@ The **Deimos Bioluminescent Lurker** can be found roaming around **Base 51**.
 
 # Behavior
 
-
+The **Deimos Bioluminescent Lurker** will start attacking the player once the player comes within a **20m radius** the **Deimos Bioluminescent Lurker** will start spitting acid at the player dealing **125 damage per hit**.
 
 # Stats 
 
