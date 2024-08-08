@@ -22,8 +22,8 @@ The **Deimos Bioluminescent Lurker** can be found roaming around **Base 51**.
 
 # Loot
 
-**K.C.E.M Teir 2** | **10%**
+**K.C.E.M Teir 2** | **9%**
 
-**K.C.E.M Teir 3** | **5%**
+**K.C.E.M Teir 3** | **3%**
 
-**K.C.E.M Teir 4** | **2.5%**
+**K.C.E.M Teir 4** | **1%**
