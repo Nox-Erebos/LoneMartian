@@ -4,7 +4,7 @@ The **Kreger Cybernetic Exoskeleton Module Teir 3** developed by Dr. Krieger as 
 
 # Obtaining
 
-**Kreger Cybernetic Exoskeleton Module Teir 3** is obtained from killing monsters roaming around **Base 51**
+**Kreger Cybernetic Exoskeleton Module Teir 3** is obtained from killing monsters roaming around **Base 51**.
 
 **Deimos Bioluminescent Lurker** | **2%**
 
