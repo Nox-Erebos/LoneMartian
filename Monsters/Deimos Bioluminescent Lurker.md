@@ -22,11 +22,13 @@ The **Deimos Bioluminescent Lurker** will start attacking the player once the pl
 
 # Loot
 
-**K.C.E.M Teir 2** | **3%**
+[**K.C.E.M Teir 2**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Upgrade%20Modules/Kreger%20Cybernetic%20Exoskeleton%20Module%20Teir%202%20(K.C.E.M%20Teir%202).md) | **3%**
 
-**K.C.E.M Teir 3** | **2%**
+[**K.C.E.M Teir 3**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Upgrade%20Modules/Kreger%20Cybernetic%20Exoskeleton%20Module%20Teir%203%20(K.C.E.M%20Teir%203).md) | **2%**
 
-**K.C.E.M Teir 4** | **1%**
+[**K.C.E.M Teir 4**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Upgrade%20Modules/Kreger%20Cybernetic%20Exoskeleton%20Module%20Teir%204%20(K.C.E.M%20Teir%204).md) | **1%**
+
+[**Artificial Flavoring Ingredients**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Food/Ingredients/Artificial%20Flavoring%20Ingredients.md) | **100%**
 
 # Game Info
 
