@@ -6,9 +6,9 @@ The **Singularity Onyx Module (S.O.M)** lost to time itself was recently discove
 
 **Singularity Onyx Module (S.O.M)** is obtained from one of two bosses around **Base 51**.
  
-[**Valles Marineris Colossus**]() **Drop Chance : 10%**
+[**Tharsis Terror Weaver**]() **Drop Chance : 0.5%**
 
-[**Tharsis Titan**]() **Drop Chance : 5%**
+[**Valles Marineris Colossus**]() **Drop Chance : 1%**
 
 # Usage
 
