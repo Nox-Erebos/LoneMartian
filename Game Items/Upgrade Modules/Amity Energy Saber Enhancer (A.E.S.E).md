@@ -6,9 +6,9 @@ The **Amity Energy Saber Enhancer (A.E.S.E)** lost to time itself was recently d
 
 **Amity Energy Saber Enhancer (A.E.S.E)** is obtained from one of two bosses around **Base 51**.
  
-[**Valles Marineris Colossus**]() **Drop Chance : 10%**
+[**Tharsis Terror Weaver**]() **Drop Chance : 0.5%**
 
-[**Tharsis Titan**]() **Drop Chance : 5%**
+[**Valles Marineris Colossus**]() **Drop Chance : 1%**
 
 # Usage
 
