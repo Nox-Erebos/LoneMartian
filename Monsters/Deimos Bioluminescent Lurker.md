@@ -22,9 +22,9 @@ The **Deimos Bioluminescent Lurker** will start attacking the player once the pl
 
 # Loot
 
-**K.C.E.M Teir 2** | **9%**
+**K.C.E.M Teir 2** | **3%**
 
-**K.C.E.M Teir 3** | **3%**
+**K.C.E.M Teir 3** | **2%**
 
 **K.C.E.M Teir 4** | **1%**
 
