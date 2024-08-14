@@ -4,19 +4,15 @@ The **Kreger Cybernetic Exoskeleton Module Teir 2** developed by Dr. Krieger as 
 
 # Obtaining
 
-**Kreger Cybernetic Exoskeleton Module Teir 2** is obtained from crafting **Mithril Gem**, **AntiGravite Gem**, **Vigor Gem**, **Regenesis Gem** and **Rethrim Plate**.
+**Kreger Cybernetic Exoskeleton Module Teir 2** is obtained from killing monsters roaming near **Base 51**.
 
-**Required Materials**
+**Deimos Bioluminescent Lurker** | **3%**
 
-**- 1** [**Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Mithril%20Gem.md)
+**Red Dust Carapace** | **6%**
 
-**- 1** [**AntiGravite Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/AntiGravite%20Gem.md)
+**Tharsis Terror Weaver** | **12%**
 
-**- 1** [**Vigor Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Vigor%20Gem.md)
-
-**- 1** [**Regenesis Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Regenesis%20Gem.md)
-
-**- 2** [**Rethrim Plate**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Plates/Rethrim%20Plate.md)
+**Valles Marineris Colossus** | **24%**
 
 # Usage
 
