@@ -35,3 +35,5 @@ The **Deimos Bioluminescent Lurker** will start attacking the player once the pl
 **MID** : Anglerox
 
 **Category** : Mob
+
+**Pronunciation** : **(day·mos·bio·loo·muh·neh·snt·luh·kuh)**
