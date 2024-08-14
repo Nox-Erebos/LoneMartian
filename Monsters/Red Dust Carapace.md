@@ -36,4 +36,4 @@ The **Red Dust Carapace** will start attacking the player once the player comes 
 
 **Category** : Mob
 
-**Pronunciation** : **(day·mos·bio·loo·muh·neh·snt·luh·kuh)**
+**Pronunciation** : **(red·duhst·ka·ruh·pays)**
