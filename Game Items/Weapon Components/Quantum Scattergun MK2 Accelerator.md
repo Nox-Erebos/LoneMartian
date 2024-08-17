@@ -4,7 +4,7 @@ The **Quantum Scattergun MK2 Accelerator** devloped by Dr. AMC for use in the **
 
 # Obtaining
 
-**Quantum Scattergun MK2 Accelerator** is obtained from crafting **Combined Rethrim Pipe**, **Accelerated Atractium Rod**, **Wire**, **Control Panel** and **Combined Focusing Glass**.
+**Quantum Scattergun MK2 Accelerator** is obtained from crafting **Combined Rethrim Pipe**, **Accelerated Atractium Rod**, **Wire**, **Control Panel** and **Combined Focusing Glass**. The **Quantum Scattergun MK2 Accelerator** can also be obtained by killing monsters roaming around **Base 51**.
 
 **Required Materials**
 
