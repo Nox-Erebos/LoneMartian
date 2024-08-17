@@ -4,7 +4,7 @@ The **Quantum Scattergun MK2 Handle** devloped by Dr. AMC for use in the **Quant
 
 # Obtaining
 
-**Quantum Scattergun MK2 Handle** is obtained from crafting **Orthrim Ingot**.
+**Quantum Scattergun MK2 Handle** is obtained from crafting **Orthrim Ingot**. The **Quantum Scattergun MK2 Handle** can also be obtained by killing monsters roaming around **Base 51**.
 
 **Required Materials**
 
