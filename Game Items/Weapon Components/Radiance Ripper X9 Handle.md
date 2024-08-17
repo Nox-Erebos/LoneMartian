@@ -4,7 +4,7 @@ The **Radiance Ripper X9 Handle** devloped by Dr. Alpha for use in the **Radianc
 
 # Obtaining
 
-**Radiance Ripper X9 Handle** is obtained from crafting **Orthrim Ingot**.
+**Radiance Ripper X9 Handle** is obtained from crafting **Orthrim Ingot**. The **Radiance Ripper X9 Handle** can also be obtained by killing mosters roaming around **Base 51**.
 
 **Required Materials**
 
