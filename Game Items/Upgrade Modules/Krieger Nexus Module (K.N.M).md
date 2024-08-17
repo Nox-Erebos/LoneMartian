@@ -6,7 +6,7 @@ The **Krieger Nexus Module (K.N.M)** lost to time itself was recently discovered
 
 **Krieger Nexus Module (K.N.M)** is obtained from one of two bosses around **Base 51**.
  
-[**Tharsis Terror Weaver**]() **Drop Chance : 0.5%**
+[**Tharsis Terror Weaver**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Monsters/Tharsis%20Terror%20Weaver.md) **Drop Chance : 0.5%**
 
 [**Valles Marineris Colossus**]() **Drop Chance : 1%**
 
