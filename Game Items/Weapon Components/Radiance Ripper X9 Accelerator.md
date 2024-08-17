@@ -4,7 +4,7 @@ The **Radiance Ripper X9 Accelerator** devloped by Dr. Alpha for use in the **Ra
 
 # Obtaining
 
-**Radiance Ripper X9 Accelerator** is obtained from crafting **Rethrim Pipe**, **Accelerated Atractium Rod**, **Wire**, and **Control Panel**.
+**Radiance Ripper X9 Accelerator** is obtained from crafting **Rethrim Pipe**, **Accelerated Atractium Rod**, **Wire**, and **Control Panel**. The **Radiance Ripper X9 Accelerator** can also be obtained by killing monsters roaming around **Base 51**.
 
 **Required Materials**
 
