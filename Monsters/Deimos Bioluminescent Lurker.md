@@ -30,6 +30,14 @@ The **Deimos Bioluminescent Lurker** will start attacking the player once the pl
 
 [**Artificial Flavoring Ingredients**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Food/Ingredients/Artificial%20Flavoring%20Ingredients.md) | **100%**
 
+[**Radiance Ripper X9 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Radiance%20Ripper%20X9%20Handle.md) | **0.1%**
+
+[**Quantum Scattergun MK2 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Quantum%20Scattergun%20MK2%20Handle.md) | **0.1%**
+
+[**Radiance Ripper X9 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Radiance%20Ripper%20X9%20Accelerator.md) | **0.01%**
+
+[**Quantum Scattergun MK2 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Quantum%20Scattergun%20MK2%20Accelerator.md) | **0.01%**
+
 # Game Info
 
 **MID** : Anglerox
