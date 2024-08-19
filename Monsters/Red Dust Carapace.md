@@ -1,6 +1,6 @@
 # Red Dust Carapace
 
-The **Red Dust Carapace** is a mutated version of the anglerfish. The **Deimos Bioluminescent Lurker** has lungs, legs, and the ability to spit acid at its enimies.
+The **Red Dust Carapace** is a mutated version of the crab. The **Red Dust Carapace** has developed a hard outer shell that renders conventional weapons useless.
 
 # Location
 
@@ -8,7 +8,7 @@ The **Red Dust Carapace** can be found roaming around **Base 51**.
 
 # Behavior
 
-
+The **Red Dust Carapace** will run to attack the player once it comes within a **15m** radius of the **Red Dust Carapace**.
 
 # Stats 
 
