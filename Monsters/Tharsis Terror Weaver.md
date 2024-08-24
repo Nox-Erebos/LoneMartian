@@ -10,7 +10,7 @@ The **Tharsis Terror Weaver** can be found roaming around **Base 51** with 2 **R
 
 # Behavior
 
-The **Tharsis Terror Weaver** will run to attack the player once the player comes within a **10m** radius of it, thought the **BOSS BATTLE** the **Tharsis Terror Weaver** will occationally stop and spit acid at the player dealing 300dmg over 10s.
+The **Tharsis Terror Weaver** will run to attack the player once the player comes within a **10m** radius of it, thought the **BOSS BATTLE** the **Tharsis Terror Weaver** will occationally stop and spit acid at the player dealing 300dmg over 10s. When nearing death the **Tharsis Terror Weaver** will immobilize the player for 10s at a time while damaging the player.
 
 # Stats 
 
