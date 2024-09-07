@@ -22,9 +22,9 @@ The **Sword of Amity** was the last device Dr. Aimi created. A year after creati
 
 **- Damage : 1500**
 
-**- AS : 0.2s**
+**- AS : 1s**
 
-**- Stamina : 100**
+**- Vitality : 0.5**
 
 **- Enhanced Stamina Regeneration : 5/s**
 
