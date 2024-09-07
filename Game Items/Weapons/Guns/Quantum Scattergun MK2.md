@@ -30,7 +30,7 @@ The **Quantum Scattergun MK2** was developed by Dr. AMC as his attempt to create
 
 **- Ammo : INFINITE**
 
-**- ROF : 10**
+**- ROF : 4**
 
 **- Range : 5m**
 
