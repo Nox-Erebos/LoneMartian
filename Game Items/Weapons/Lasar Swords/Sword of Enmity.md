@@ -36,7 +36,7 @@ The **Sword of Enmity** was developed by **Ivy**. After being consumed with jeal
 
 **- AS : 1.5s**
 
-**- Stamina : 50**
+**- Vitality : 0.25**
 
 **- Stamina Regeneration : 50/s**
 
