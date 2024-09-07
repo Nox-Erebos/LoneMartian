@@ -24,7 +24,7 @@ The **Onyx Obliterator WMD1937** was the last device that Dr. Onyx created. Only
 
 **- Ammo : INFINITE**
 
-**- ROF : 99**
+**- ROF : 6**
 
 **- Range : 20m**
 
