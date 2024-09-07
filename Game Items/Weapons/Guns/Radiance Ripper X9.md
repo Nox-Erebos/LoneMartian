@@ -36,7 +36,7 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **- Ammo : INFINITE**
 
-**- ROF : 30**
+**- ROF : 5**
 
 **- Range : 10m**
 
