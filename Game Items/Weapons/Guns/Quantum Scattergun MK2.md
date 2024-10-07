@@ -18,7 +18,7 @@ The **Quantum Scattergun MK2** was developed by Dr. AMC as his attempt to create
 
 **- 1** [**Quantum Scattergun MK2 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Quantum%20Scattergun%20MK2%20Accelerator.md)
 
-**- 1** [**Quantum Scattergun MK2 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Quantum%20Scattergun%20MK2%20Handle.md)
+**- 1** [**Quantum Scattergun MK2 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Quantum%20Scattergun%20MK2%20Handle.md)
 
 **- 1** [**Combined Rethrim Pipe**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Combined%20Rethrim%20Pipe.md)
 
