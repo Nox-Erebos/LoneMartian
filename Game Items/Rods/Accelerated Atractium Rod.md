@@ -1,18 +1,20 @@
-# Accelerated Atractium Rod
+# Mithril-Infused Atractium Rod
 
-**Atractium Rods** were created by Dr Alpha for use in the **Quantum Scattergun MK2**.
+**Mithril-infused Atractium Rods** were created by Dr. Alpha for use in the **Quantum Scattergun MK2**.
 
 # Obtaining
 
-**Accelerated Atractium Rods** are obtained from accelearting **Atractium Rod** in the [**Accelerator**]().
+**Mithril-infused Atractium Rods** are obtained from crafting an **Atractium Rod** and a **Refined Mithril Gem**.
 
 **Required Materials**
 
 **- 1** [**Atractium Rod**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Rods/Atractium%20Rod.md)
 
+**- 1** [**Refined Mithril Gem**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Crystals/Refined%20Gems/Refined%20Mithril%20Gem.md)
+
 # Usage
 
-**Atractium Rods** are used to make the Accelerated Atractium Rod.
+**Mithril-infused Atractium Rods** are used to make the **Quantum Scattergun MK2**.
 
 # Item State
 
