@@ -16,7 +16,7 @@
 
 # Item State
 
-***<--- None*** | [**Accelerated Atractium Rod --->**]()
+***<--- None*** | [**Mithril-Infused Atractium Rod --->**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Rods/Accelerated%20Atractium%20Rod.md)
 
 # Game Info
 
