@@ -10,7 +10,7 @@ The **Quantum Scattergun MK2 Accelerator** devloped by Dr. AMC for use in the **
 
 **- 1** [**Combined Rethrim Pipe**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Rethrim%20Pipe.md)
 
-**- 2** [**Accelerated Atractium Rods**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Rods/Accelerated%20Atractium%20Rod.md)
+**- 2** [**Mithril-Infused Atractium Rods**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Rods/Accelerated%20Atractium%20Rod.md)
 
 **- 8** [**Wires**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Wires/Wire.md)
 
