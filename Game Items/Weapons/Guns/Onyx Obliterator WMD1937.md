@@ -14,9 +14,9 @@ The **Onyx Obliterator WMD1937** was the last device that Dr. Onyx created. Only
 
 **Onyx Obliterator WMD1937**
 
-**- 1** [**Radiance Ripper X9**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Guns/Radiance%20Ripper%20X9.md)
+**- 1** [**Radiance Ripper X9**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapons/Guns/Radiance%20Ripper%20X9.md)
 
-**- 1** [**Singularity Onyx Module**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Singularity%20Onyx%20Module%20(S.O.M).md)
+**- 1** [**Singularity Onyx Module**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Upgrade%20Modules/Singularity%20Onyx%20Module%20(S.O.M).md)
 
 # Stats
 
