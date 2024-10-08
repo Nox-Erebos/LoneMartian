@@ -20,15 +20,15 @@ The **Sword of Enmity** was developed by **Ivy**. After being consumed with jeal
 
 **Sword of Enmity**
 
-**- 1** [**Emitter**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Emitter.md)
+**- 1** [**Emitter**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Emitter.md)
 
-**- 1** [**Focusing Glass**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Glass/Focusing%20Glass.md)
+**- 1** [**Focusing Glass**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Glass/Focusing%20Glass.md)
 
-**- 2** [**Refined Mithril Cores**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Gems/Refined%20Mithril%20Core.md)
+**- 2** [**Refined Mithril Cores**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Crystals/Refined%20Cores/Refined%20Mithril%20Core.md)
 
-**- 2** [**Copper B4 Pipe**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Copper%20B4%20Pipe.md)
+**- 2** [**Copper B4 Pipe**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Pipes/Copper%20B4%20Pipe.md)
 
-**- 1** [**End Cap**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/End%20Cap.md)
+**- 1** [**End Cap**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/End%20Cap.md)
 
 # Stats
 
