@@ -1,6 +1,6 @@
 # Radiance Ripper X9
 
-The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a weapon that can greatly aid humanity in the upcoming wars. The **Radiance Ripper X9** devloped and built under a time constraint when **UPA** was desprate for weapons to aid them in the upcoming war.
+The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a weapon that can greatly aid humanity in the upcoming wars. The **Radiance Ripper X9** developed and built under a time constraint when **UPA** was desperate for weapons to aid them in the upcoming war.
 
 # Obtaining
 
@@ -20,15 +20,15 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **Radiance Ripper X9**
 
-**- 1** [**Radiance Ripper X9 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Accelerator.md)
+**- 1** [**Radiance Ripper X9 Accelerator**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Radiance%20Ripper%20X9%20Accelerator.md)
 
-**- 1** [**Radiance Ripper X9 Focus**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Focus.md)
+**- 1** [**Radiance Ripper X9 Focus**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Radiance%20Ripper%20X9%20Focus.md)
 
-**- 1** [**Radiance Ripper X9 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Radiance%20Ripper%20X9%20Handle.md)
+**- 1** [**Radiance Ripper X9 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Radiance%20Ripper%20X9%20Handle.md)
 
 **- 2** [**Rethrim Pipes**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Rethrim%20Pipe.md)
 
-**- 1** [**G.P.C**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Weapon%20Components/Gun%20Power%20Core%20(G.P.C).md)
+**- 1** [**G.P.C**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Gun%20Power%20Core%20(G.P.C).md)
 
 # Stats
 
