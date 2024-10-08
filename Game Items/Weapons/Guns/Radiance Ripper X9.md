@@ -26,7 +26,7 @@ The **Radiance Ripper X9** was developed by Dr. Alpha as his attempt to create a
 
 **- 1** [**Radiance Ripper X9 Handle**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Radiance%20Ripper%20X9%20Handle.md)
 
-**- 2** [**Rethrim Pipes**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Pipes/Rethrim%20Pipe.md)
+**- 2** [**Rethrim Pipes**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Pipes/Rethrim%20Pipe.md)
 
 **- 1** [**G.P.C**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Game%20Items/Weapon%20Components/Gun%20Power%20Core%20(G.P.C).md)
 
