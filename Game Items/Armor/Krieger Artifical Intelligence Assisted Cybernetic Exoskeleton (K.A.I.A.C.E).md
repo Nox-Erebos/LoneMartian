@@ -1,6 +1,6 @@
-# Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)
+# Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)
 
-The **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life along side Dr. Onyx and Dr. Aimi finally bringing the war to an end. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
+The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life alongside Dr. Onyx and Dr. Aimi finally ending the war. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
 
 # Obtaining
 
@@ -12,7 +12,7 @@ The **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.
 
 # Recipie Tree
 
-**Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)**
+**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)**
 
 **- 1** [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
 
@@ -36,6 +36,11 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 
 "Peace is finnally within our grasp."
 
+<details><summary><a href="https://Example.com">Hi</a></summary>
+
+hi
+
+</details>
 **- Krieger**
 
 # Special Ability
