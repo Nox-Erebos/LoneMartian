@@ -39,7 +39,8 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 <details><summary>Hi</a></summary>
 
 1. hi
-- die
+
+  - die
 </details>
 
 **- Krieger**
