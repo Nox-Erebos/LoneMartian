@@ -2,6 +2,15 @@
 
 The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life alongside Dr. Onyx and Dr. Aimi finally ending the war. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
 
+<details><summary>Hi</a></summary>
+
+1. hi
+
+  * [Obtaining](#obtaining)
+
+</details>
+
+
 # Obtaining
 
 **The Sword of Amity** can be crafted with two items: 
@@ -36,12 +45,7 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 
 "Peace is finnally within our grasp."
 
-<details><summary>Hi</a></summary>
 
-1. hi
-
-  - die
-</details>
 
 **- Krieger**
 
