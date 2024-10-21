@@ -5,7 +5,6 @@ The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C
 <details><summary>Hi</a></summary>
 
   1. hi
-
      * [Obtaining](#obtaining)
 
 </details>
