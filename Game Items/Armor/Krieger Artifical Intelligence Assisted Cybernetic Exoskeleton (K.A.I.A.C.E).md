@@ -8,7 +8,7 @@ The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C
      * [Obtaining](#obtaining)
   2.
   <details>
-  <summary>OH HAIL NO</summary>
+  <summary>OH HAIL NO</a></summary>
   
     Bish
   
