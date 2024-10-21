@@ -36,11 +36,12 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 
 "Peace is finnally within our grasp."
 
-<details><summary><a href="https://Example.com">Hi</a></summary>
+<details><summary>Hi</a></summary>
 
 hi
 
 </details>
+
 **- Krieger**
 
 # Special Ability
