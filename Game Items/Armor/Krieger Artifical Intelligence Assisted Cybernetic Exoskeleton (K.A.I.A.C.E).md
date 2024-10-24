@@ -1,6 +1,6 @@
-# Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton
+# $Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton$
 
-**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger
+$**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger$
 
 
 <details><summary>$\color{#FF0000}{Table~of~Contents}$</a></summary>
