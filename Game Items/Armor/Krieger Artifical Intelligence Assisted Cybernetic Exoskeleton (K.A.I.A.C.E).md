@@ -4,7 +4,7 @@
 
 
 
-<details><summary>[Table Of Contents](color: blue)</a></summary>
+<details><summary>$\color{#FF0000}{Table~Of~Contents}$</a></summary>
 
  1.  [Obtaining](#obtaining)
 
