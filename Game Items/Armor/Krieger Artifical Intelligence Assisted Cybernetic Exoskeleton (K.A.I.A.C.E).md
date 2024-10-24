@@ -21,7 +21,7 @@
  
 </details>
 
-## Stats
+## $Stats$
 
 **- Health : 5000**
 
@@ -33,15 +33,15 @@
 
 **- Regeneration : 100/s**
 
-## Quote
+## $Quote$
 
 *"Peace is finnally within our grasp."*
 
 ***- Krieger***
 
-# Special Ability
+# $Usage$
 
-**> Gentle Repose**
+### Gentle Repose
 
 **Gentle Repose** can be activated by **Shift-Right-Clicking** while having the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** equiped.
 
