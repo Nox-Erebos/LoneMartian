@@ -1,6 +1,6 @@
-# $Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton$
+# Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton
 
-$**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger$
+**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger
 
 
 <details><summary>$\color{#FF0000}{Table~of~Contents}$</a></summary>
@@ -14,7 +14,7 @@ $**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the fina
 
 **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** can be obtained by crafting **Krieger Cybernetic Exoskeleton Teir 4** with **Krieger Nexus Module** : 
 
-<details><summary>Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton</a></summary>
+<details><summary>$/color{#0000FF}{Raw Materials}$</a></summary>
  
  1. [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
 
