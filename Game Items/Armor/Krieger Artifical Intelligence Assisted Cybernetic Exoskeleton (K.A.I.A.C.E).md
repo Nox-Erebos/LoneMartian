@@ -9,6 +9,7 @@
 
 </details>
 
+$question$
 
 ## Obtaining
 
