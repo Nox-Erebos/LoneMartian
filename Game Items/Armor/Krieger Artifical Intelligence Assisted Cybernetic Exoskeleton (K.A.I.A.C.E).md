@@ -33,9 +33,7 @@
 
 **- Regeneration : 100/s**
 
-# Quote
-
-Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** stated :
+## Quote
 
 *"Peace is finnally within our grasp."*
 
