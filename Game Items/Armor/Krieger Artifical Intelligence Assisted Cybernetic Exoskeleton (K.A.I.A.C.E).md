@@ -21,7 +21,7 @@ The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C
 
  2. [Krieger Nexus Module](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
  
-
+</details>
 
 ## Recipie Tree
 
