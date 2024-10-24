@@ -23,13 +23,6 @@ The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C
  
 </details>
 
-## Recipie Tree
-
-**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)**
-
-**- 1** [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
-
-**- 1** [**Krieger Nexus Module (K.N.M)**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
 
 # Stats
 
