@@ -15,9 +15,9 @@
 
 <details><summary>$\color{#0000FF}{Raw~Materials}$</a></summary>
  
- 1. [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
+ 1. $[**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)$
 
- 2. [**Krieger Nexus Module**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
+ 2. $[**Krieger Nexus Module**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)$
  
 </details>
 
@@ -50,8 +50,8 @@ When activated **Gentle Repose** will generate a shield that negate all damage f
 After use **Gentle Repose** will go on a **10min** cooldown.
 
 ## History 
-The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life alongside Dr. Onyx and Dr. Aimi finally ending the war. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
 
+The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last exoskeleton that Dr. Krieger created. Days latter Dr. Krieger sacrificed his life alongside Dr. Onyx and Dr. Aimi finally ending the war. The last message sent by Dr. Krieger was "My life is a small price to pay for the saftey of humanity!".
 
 # Item State
 
