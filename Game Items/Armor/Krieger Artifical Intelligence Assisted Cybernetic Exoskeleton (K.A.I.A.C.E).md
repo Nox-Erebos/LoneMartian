@@ -1,10 +1,10 @@
 # Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton
 
-**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is a 
+**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger
 
-The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life alongside Dr. Onyx and Dr. Aimi finally ending the war. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
 
-<details><summary>Table Of Contents</a></summary>
+
+<details><summary>[Table Of Contents](color: blue)</a></summary>
 
  1.  [Obtaining](#obtaining)
 
@@ -55,6 +55,9 @@ Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybe
 When activated **Gentle Repose** will generate a shield that negate all damage for **5s**.
 
 After use **Gentle Repose** will go on a **10min** cooldown.
+
+## History 
+The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** was the last device that Dr. Krieger created. Only days after the creation of the **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** Dr. Krieger sacrificed his life alongside Dr. Onyx and Dr. Aimi finally ending the war. The last message sent by Dr. Krieger was "MY LIFE IS A SMALL PRICE TO PAY FOR THE SAFETY OF HUMANITY!".
 
 
 # Item State
