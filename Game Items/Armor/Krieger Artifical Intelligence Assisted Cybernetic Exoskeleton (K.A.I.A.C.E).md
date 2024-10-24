@@ -15,7 +15,7 @@ The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C
 
 **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** can be obtained by crafting **Krieger Cybernetic Exoskeleton Teir 4** with **Krieger Nexus Module** : 
 
-<details><summary>[Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton](#krieger-artificial-intelligence-assisted-cybernetic-exoskeleton)</a></summary>
+<details><summary>Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton</a></summary>
  
  1. [Krieger Cybernetic Exoskeleton Teir 4](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
 
