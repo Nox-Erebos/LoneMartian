@@ -17,9 +17,9 @@ The **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C
 
 <details><summary>Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton</a></summary>
  
- 1. [Krieger Cybernetic Exoskeleton Teir 4](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
+ 1. [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
 
- 2. [Krieger Nexus Module](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
+ 2. [**Krieger Nexus Module**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
  
 </details>
 
