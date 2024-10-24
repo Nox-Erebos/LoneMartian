@@ -3,13 +3,13 @@
 **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger
 
 
-
-<details><summary>$\color{#FF0000}{Table~Of~Contents}$</a></summary>
+```color
+<details><summary>[#ff0000]Some red text[/#ff0000]</a></summary>
 
  1.  [Obtaining](#obtaining)
 
 </details>
-
+```
 
 ## Obtaining
 
