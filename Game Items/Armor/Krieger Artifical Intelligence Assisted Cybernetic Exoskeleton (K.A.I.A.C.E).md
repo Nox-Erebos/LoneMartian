@@ -41,7 +41,7 @@
 
 # $Usage$
 
-### Gentle Repose
+### $Gentle Repose$
 
 **Gentle Repose** can be activated by **Shift-Right-Clicking** while having the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** equiped.
 
