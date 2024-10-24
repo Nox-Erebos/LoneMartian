@@ -1,7 +1,6 @@
 # Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton
 
-**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger
-
+**Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** is the final exosketon produced by Dr. Krieger. 
 
 <details><summary>$\color{#0000FF}{Table~of~Contents}$</a></summary>
 
@@ -16,14 +15,13 @@
 
 <details><summary>$\color{#0000FF}{Raw~Materials}$</a></summary>
  
- 1. [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
+ 1. [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)
 
- 2. [**Krieger Nexus Module**](https://github.com/AlphaMC0/Lone-Martian/blob/main/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
+ 2. [**Krieger Nexus Module**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)
  
 </details>
 
-
-# Stats
+## Stats
 
 **- Health : 5000**
 
@@ -39,11 +37,9 @@
 
 Dr. Krieger after creation of the **Krieger Artifical Intelligence Assisted Cybernetic Exoskeleton (K.A.I.A.C.E)** stated :
 
-"Peace is finnally within our grasp."
+*"Peace is finnally within our grasp."*
 
-
-
-**- Krieger**
+***- Krieger***
 
 # Special Ability
 
