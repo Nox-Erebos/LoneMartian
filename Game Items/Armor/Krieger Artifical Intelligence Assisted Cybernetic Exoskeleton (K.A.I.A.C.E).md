@@ -9,9 +9,8 @@
 
 </details>
 
-$question$
 
-## Obtaining
+## $Obtaining$
 
 **Krieger Artificial Intelligence Assisted Cybernetic Exoskeleton** can be obtained by crafting **Krieger Cybernetic Exoskeleton Teir 4** with **Krieger Nexus Module** : 
 
