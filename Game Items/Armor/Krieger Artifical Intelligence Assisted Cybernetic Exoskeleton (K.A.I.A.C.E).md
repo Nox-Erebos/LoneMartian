@@ -15,7 +15,7 @@
 
 <details><summary>$\color{#0000FF}{Raw~Materials}$</a></summary>
  
- 1. $[**Krieger~Cybernetic~Exoskeleton~Teir~4**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)$
+ $1. [**Krieger Cybernetic Exoskeleton Teir 4**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Armor/Krieger%20Cybernetic%20Exoskeleton%20Teir%204.md)$
 
  2. $[**Krieger Nexus Module**](https://github.com/Nox-Erebos/LoneMartian/blob/main/Game%20Items/Upgrade%20Modules/Krieger%20Nexus%20Module%20(K.N.M).md)$
  
