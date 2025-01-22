@@ -1,4 +1,4 @@
-# Kreger Cybernetic Exoskeleton Module Teir 2 (K.C.E.M Teir 2)
+# Kreger Cybernetic Exoskeleton Mark 1 (K.C.E.MK 1)
 
 The **Kreger Cybernetic Exoskeleton Module Teir 2** developed by Dr. Krieger as a upgrade path for the **Kreger Cybernetic Exoskeleton**.
 
